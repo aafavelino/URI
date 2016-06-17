@@ -9,6 +9,5 @@ int main(int argc, char const *argv[])
 	std::cin >> y;
 	
 	printf("%.3f km/l\n", x/y);
-
 	return 0;
 }
