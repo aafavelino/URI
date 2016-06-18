@@ -16,4 +16,5 @@ int main(int argc, char const *argv[])
         b = b + x;
     }
     printf("\n");
+    return 0;
 }
