@@ -18,4 +18,5 @@ int main(int argc, char const *argv[])
         else 
             cout << "Fora de intervalo" << endl;
     }
+    return 0;
 }
