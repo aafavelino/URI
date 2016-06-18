@@ -11,4 +11,8 @@ int main(int argc, char const *argv[])
 	printf("%.4f\n", value);
 
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
