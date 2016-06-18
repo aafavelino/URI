@@ -6,13 +6,10 @@ int main(int argc, char const *argv[])
       double n;
       while(i<=6){
           scanf("%lf", &n);
-          
-        
-          if(n>0){
+
+          if(n>0)
               g++;
-          }
-         
-         
+     
            i++;
       }
       printf("%i valores positivos\n", g);
