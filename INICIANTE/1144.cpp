@@ -2,16 +2,16 @@
                                            
 int main(int argc, char const *argv[])
 {
-    int tipo;
-    int i=1,n;
+    int a,n;
+    scanf("%i",&a);
+    scanf("%i",&n);
+         if(a%n==0 || n%a==0){
+             printf("Sao Multiplos\n");
+         }else{
+         	printf("Nao sao Multiplos\n");
+         }
+            
+   
     
-    scanf("%i",&tipo);
-    
-    while(i <=tipo){
-    	printf("%i %i %i\n",i,i*i,i*i*i);
-     	printf("%i %i %i\n",i,i*i+1,i*i*i+1); 
-    	i++;
-    }
-
     return 0;
 }
