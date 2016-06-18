@@ -16,7 +16,6 @@ int main(int argc, char const *argv[])
         }
         
     } 
-    
     printf("Menor valor: %d\n",min);
     printf("Posicao: %d\n",ps);
     return 0;
