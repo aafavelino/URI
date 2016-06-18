@@ -14,5 +14,6 @@ int main(int argc, char const *argv[])
         n++;
     }
     printf("Ciencia da Computacao\n");
+    return 0;
     
 }
