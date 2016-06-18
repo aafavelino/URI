@@ -12,5 +12,6 @@ int main(int argc, char const *argv[])
     }
     
     printf("O JOGO DUROU %i HORA(S)\n",tempo);
-    
+
+    return 0;
 }
