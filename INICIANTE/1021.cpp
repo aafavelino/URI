@@ -33,4 +33,5 @@ int main() {
         x = note(x, "moeda", 0.01);
         
     }
+    return 0;
 }
