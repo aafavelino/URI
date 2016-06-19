@@ -31,6 +31,8 @@ int main() {
         x = note(x, "moeda", 0.10);
         x = note(x, "moeda", 0.05);
         x = note(x, "moeda", 0.01);
+        break;
         
     }
+    return 0;
 }
