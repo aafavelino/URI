@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-#include <cmath>
 using namespace std;
 
 double note(double x, string type, double note) {
@@ -35,4 +34,8 @@ int main() {
         
     }
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
